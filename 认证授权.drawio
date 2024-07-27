@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-27T08:05:36.975Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Rig_HcwzxI4mJ_MNESbZ" version="24.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-27T08:07:41.806Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="md9pS5hALxjjnodLLPI7" version="24.6.2" type="github">
   <diagram name="第 1 页" id="OO63edVG9dswbnCEk5Ap">
     <mxGraphModel dx="853" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -18,6 +18,11 @@
         </mxCell>
         <mxCell id="ZVcZQPWD4RDJLYESJRYW-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZVcZQPWD4RDJLYESJRYW-4" target="ZVcZQPWD4RDJLYESJRYW-10">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZVcZQPWD4RDJLYESJRYW-12" value="场景: web服务认证授权" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZVcZQPWD4RDJLYESJRYW-11">
+          <mxGeometry x="-0.1" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ZVcZQPWD4RDJLYESJRYW-4" value="&lt;span style=&quot;caret-color: rgb(32, 33, 36); color: rgb(32, 33, 36); font-family: &amp;quot;JetBrains Mono&amp;quot;, &amp;quot;Fira Code&amp;quot;, &amp;quot;Cascadia Code&amp;quot;, Menlo, &amp;quot;Ubuntu Mono&amp;quot;, Consolas, HYZhengYuan; orphans: 4; text-align: left; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;身份识别与访问管理(IAM)&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="230" width="120" height="60" as="geometry" />
